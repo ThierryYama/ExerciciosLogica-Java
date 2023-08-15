@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex16 {
+public class Ex16DESAFIO {
     public static void main(String[] args) {
         Scanner e = new Scanner (System.in);
         int cd,af,daf,tt,tf,t;
